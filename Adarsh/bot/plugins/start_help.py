@@ -72,7 +72,7 @@ InlineKeyboardButton("Tʀʏ Aɢᴀɪɴ 🔃", URL=f"http://t.me/filetolinkrio_bo
         except Exception:
             await b.send_message(
                 chat_id=m.chat.id,
-                text="<i>𝓢𝓸𝓶𝓮𝓽𝓱𝓲𝓷𝓰 𝔀𝓮𝓷𝓽 𝔀𝓻𝓸𝓷𝓰</i> <b> <a href='https://t.me/TEAMRIO_SUPPORT_GROUP'>CLICK HERE FOR SUPPORT </a></b>",
+                text="<i>𝓢𝓸𝓶𝓮𝓽𝓱𝓲𝓷𝓰 𝔀𝓮𝓷𝓽 𝔀𝓻𝓸𝓷𝓰</i> <b> <a href='https://t.me/daemon990'>CLICK HERE FOR SUPPORT </a></b>",
                 
                 disable_web_page_preview=True)
             return
@@ -122,7 +122,7 @@ InlineKeyboardButton("Tʀʏ Aɢᴀɪɴ 🔃", URL=f"http://t.me/filetolinkrio_bo
         except Exception:
             await bot.send_message(
                 chat_id=message.chat.id,
-                text="__Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ__ [LEO TG](https://telegram.me/leotgadmin_bot).",
+                text="__Sᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ Wʀᴏɴɢ. Cᴏɴᴛᴀᴄᴛ ᴍᴇ__ [DAEMON](https://t.me/daemon990).",
                 disable_web_page_preview=True)
             return
     await message.reply_text(
@@ -132,8 +132,8 @@ InlineKeyboardButton("Tʀʏ Aɢᴀɪɴ 🔃", URL=f"http://t.me/filetolinkrio_bo
         disable_web_page_preview=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("💁‍♂️ DEVELOPER", url="https://t.me/leotgadmin_bot")],
-                [InlineKeyboardButton("💥 Our Movie Bot", url="https://t.me/tamilmovies4Krio_bot")]
+                [InlineKeyboardButton("💁‍♂️ DEVELOPER", url="https://t.me/daemon990")],
+                [InlineKeyboardButton("💥 Our Movie Bot", url="https://t.me/TeluguZone_File1_sharing_bot")]
             ]
         )
     )
